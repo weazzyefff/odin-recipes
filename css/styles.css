@@ -1,0 +1,31 @@
+h1{
+
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: "Times New Roman",Times, serif;
+}
+h2{
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: "Times New Roman",Times, serif;
+}
+.porkChops{
+		background-color: #4f0c02;
+		color: white;
+}
+.simpleSlow{
+		background-color: #d42013;
+		color: white;
+}
+.onePot{
+		background-color: #d1a102;
+		color: white;
+}
+img {
+
+    width:  auto;
+    height: 300px;
+    object-fit: cover;
+}
